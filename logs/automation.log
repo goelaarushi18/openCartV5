@@ -1,0 +1,6 @@
+2025-04-25 13:56:08 INFO  AccountRegistrationPageTest:16 - *** Starting account registration ***
+2025-04-25 13:56:08 INFO  AccountRegistrationPageTest:22 - click on my register
+2025-04-25 13:56:13 INFO  AccountRegistrationPageTest:39 - validating expected message
+2025-04-25 14:19:22 INFO  AccountRegistrationPageTest:16 - *** Starting account registration ***
+2025-04-25 14:19:22 INFO  AccountRegistrationPageTest:22 - click on my register
+2025-04-25 14:19:23 INFO  AccountRegistrationPageTest:39 - validating expected message
